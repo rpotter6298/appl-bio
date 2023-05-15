@@ -1,0 +1,18 @@
+$ git log --graph
+* commit a927475e1fc3452a6973cb8999183f4deb790fd7 (HEAD -> A, origin/A)
+| Author: rpotter6298 <66009249+rpotter6298@users.noreply.github.com>
+| Date:   Mon May 15 07:35:54 2023 +0200
+|
+|     commit A1
+|
+* commit 258e6b43d7df6086780249554fc55dcdb726f45c (origin/main, origin/HEAD, main)
+| Author: rpotter6298 <66009249+rpotter6298@users.noreply.github.com>
+| Date:   Thu May 11 20:43:00 2023 +0200
+|
+|     added hi bob line
+|
+* commit 582b644f11c0df75e902c5c2fd0b5fb6ad57e5fd
+  Author: rpotter6298 <66009249+rpotter6298@users.noreply.github.com>
+  Date:   Thu May 11 20:41:06 2023 +0200
+
+      Create README.md
